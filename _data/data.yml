@@ -104,14 +104,12 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      List of publications.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Identification of surface proteins in Enterococcus faecalis V583. BMC Genomics. 2011 Mar 1;12:135. doi: 10.1186/1471-2164-12-135. PMID: 21362161; PMCID: PMC3059304.
+        link: "https://pubmed.ncbi.nlm.nih.gov/21362161/"
+        authors: Bøhle LA, Riaz T, Egge-Jacobsen W, Skaugen M, Busk ØL, Eijsink VG, Mathiesen G. 
+        pmid: 21362161
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
@@ -133,12 +131,19 @@ skills:
       - name: Javascript & Vue
         level: 98%
 
-    
+      - name: Nim
+        level: 60%
+
+      - name: Databases (postgresql, sqlite, sql)
+        level: 70%
+
       - name: Bioinformatics
         level: 100%
 
       - name: Data Science 
-        level: 60%
-
+        level: 70%
+  
+      - name: DEV/OPS 
+        level: 80%
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
