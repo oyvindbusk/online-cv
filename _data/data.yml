@@ -106,7 +106,7 @@ publications:
     intro: |
       List of publications.
     papers:
-      - title: Identification of surface proteins in Enterococcus faecalis V583. BMC Genomics. 2011 Mar 1;12:135. doi: 10.1186/1471-2164-12-135. PMID: 21362161; PMCID: PMC3059304.
+      - title: Identification of surface proteins in Enterococcus faecalis V583. BMC Genomics. 2011
         link: "https://pubmed.ncbi.nlm.nih.gov/21362161/"
         authors: Bøhle LA, Riaz T, Egge-Jacobsen W, Skaugen M, Busk ØL, Eijsink VG, Mathiesen G. 
         pmid: 21362161
